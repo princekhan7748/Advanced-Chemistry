@@ -1,15 +1,3 @@
-Yes. Given the philosophy we established, I would redesign the structure rather than merely expand your existing 18 chapters.
-
-The central rule of the book should be:
-
-> **No important chemical rule is introduced before the physical machinery needed to explain it.**
-
-And the second rule:
-
-> **When a simple rule fails, explain which approximation failed and what additional physics repairs it.**
-
-Below is the TOC I would use as the **master architecture**.
-
 # Quantum Chemistry: From Fundamental Physics to Chemical Reactivity
 
 ### Proposed structure: 2 Parts · 20 Chapters · 5 Appendices
